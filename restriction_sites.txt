@@ -1,0 +1,7 @@
+Restriction Site Finder Results
+===============================
+DNA record: pBR322 (J01749.1)
+Enzyme: BamHI
+Recognition sequence: GGATCC
+Sites found: 1
+Site positions: 375
