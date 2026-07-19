@@ -107,6 +107,22 @@ The program and all four site searches were checked with Python 3.14.
 
 These limits keep the project focused on basic and explainable Python.
 
+## What I Learned
+
+This project helped me practice:
+
+- connecting recognition sequences with named restriction enzymes
+- searching a DNA sequence for repeated patterns
+- converting Python's 0-based indexes to 1-based biological positions
+- saving analysis results as a plain-text report
+- documenting a real NCBI sequence and its limitations
+
+## Portfolio Progression
+
+Previous project: [NCBI Sequence Fetcher](https://github.com/pankhilpandya01-star/bioinformatics-project-02-ncbi-sequence-fetcher)
+
+Next project: [SAM8 Protein Explorer](https://github.com/pankhilpandya01-star/bioinformatics-project-04-sam8-protein-explorer)
+
 ## License
 
 This project is available under the MIT License.
